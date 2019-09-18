@@ -333,10 +333,10 @@ h4 {
 #location {
   font-family: cursive;
 }
-#contacts {
+/* #contacts {
   display: flex;
   justify-content:space-evenly;
-}
+} */
 .fa fa-facebook {
   size: 30px;
 }
@@ -354,4 +354,12 @@ h4 {
 .btn-facebook:active, .btn-facebook:hover {
   background: #263961;
   color: #fff;
+}
+#adr {
+    display: grid;
+
+}
+#map {
+    display: flex;
+    justify-content: center;
 }
